@@ -1,0 +1,25 @@
+{
+  "name": "monitormix-electron",
+  "version": "1.0.0",
+  "description": "Simple application to generate Yamaha MonitorMix configurations.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronenb/monitormix-electron.git"
+  },
+  "author": "Benjamin Dronen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dronenb/monitormix-electron/issues"
+  },
+  "homepage": "https://github.com/dronenb/monitormix-electron#readme",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  },
+  "dependencies": {
+    "dependencies": "^0.0.1"
+  }
+}
